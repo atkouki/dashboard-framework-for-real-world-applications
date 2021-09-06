@@ -2,7 +2,7 @@
 
 ## FYI
 this project has been created based on [https://github.com/splunk/dashboard-conf19-examples](https://github.com/splunk/dashboard-conf19-examples) . 
-the structure and operation are the same.
+the structure and operation are almost the same.
 
 ## Prerequisite 
 * Install last version of [nodejs](https://nodejs.org/en/) .
