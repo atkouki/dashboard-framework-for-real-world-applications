@@ -1,0 +1,5 @@
+<nav color="#0f8be34">
+    <collection label=".conf 2021">
+        <view name="supplier_chain_tracking" default="false"/>
+    </collection>
+</nav>
