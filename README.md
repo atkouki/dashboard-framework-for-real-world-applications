@@ -2,12 +2,16 @@
 
 ## FYI
 this project has been created based on [https://github.com/splunk/dashboard-conf19-examples](https://github.com/splunk/dashboard-conf19-examples) . 
-the structure and operation are almost the same.
+the structure and operation are the same.
 
 ## Prerequisite 
 * Install last version of [nodejs](https://nodejs.org/en/) .
 * Install Splunk Enterprise locally and have $SPLUNK_HOME env variable setup.
 * In Windows environment, to avoid any file permission issues start the command prompt with "Run as Administrator" to run the commands mentioned in the [Development](#development) section.
+
+## Splunk 
+* Create a new index : assets
+* index the data/assets.json file (sourcetype: _json)
 
 ## Development
 * `npm install` - install dependencies.
